@@ -12,7 +12,7 @@
         </p>
         <p>如果遇到他们，请小心。</p>
         <p>
-            <a href="#" class="btn btn-lg btn-success" role="button">现在举报</a>
+            <a href="{{route('signup')}}" class="btn btn-lg btn-success" role="button">现在举报</a>
         </p>
     </div>
 @stop
