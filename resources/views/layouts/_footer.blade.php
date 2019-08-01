@@ -4,6 +4,6 @@
         再看，再看就把你抓起来。
     </a>
     <div class="float-right">
-        <a href="/about">嘿嘿</a>
+        <a href="{{route('about')}}">嘿嘿</a>
     </div>
 </footer>
